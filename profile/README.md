@@ -4,7 +4,7 @@ We strive to create free and open source software for everyone at no cost. Our g
 
 ## Our Team
 
-At Mordarski Networks, we work together to create software that anyone can use. Our Team benefits from contributers around the world that help us create free and open source software. We take our time seriously and make sure that our software can be used by everyone.
+At Mordarski Networks, we work together to create software that anyone can use. Our Team benefits from contributors around the world that help us create free and open source software. We take our time seriously and make sure that our software can be used by everyone.
 
 ## Tech Support
 
